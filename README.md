@@ -1,4 +1,5 @@
-# Google Data Analytics Professional Certificate                                     ![](google logo)
+# Google Data Analytics Professional Certificate                                     
+![](Certificates/certificate-badge.png)
 
 
 ## 📍 About this Professional Certificate
