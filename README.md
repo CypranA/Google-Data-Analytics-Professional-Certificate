@@ -57,5 +57,3 @@ This course is the eighth course in the Google Data Analytics Certificate. Youâ€
 
 ## 
 Â© 2022 Cypran Akubude
-
-<cyakubude@outlook.com>
