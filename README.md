@@ -2298,7 +2298,7 @@ pd.read_csv('trip_data.csv')
 </div>
 
 <p align="center">
-  <img src="https://github.com/CypranA/Google-Data-Analytics-Professional-Certificate/blob/main/Cyclistic%20Dashboard.png" width="2767" height="1600" />
+  <img src="https://github.com/CypranA/Google-Data-Analytics-Professional-Certificate/blob/main/Cyclistic%20Dashboard.png" />
 </p>
 [Download Cyclistic Dashboard PDF](https://github.com/CypranA/Google-Data-Analytics-Professional-Certificate/raw/main/Cyclistic%20Dashboard.pdf)
 
