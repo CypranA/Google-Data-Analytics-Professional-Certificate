@@ -2297,6 +2297,7 @@ pd.read_csv('trip_data.csv')
 <p>5071194 rows × 22 columns</p>
 </div>
 
+[Download Cyclistic Dashboard PDF](https://github.com/CypranA/Google-Data-Analytics-Professional-Certificate/raw/main/Cyclistic%20Dashboard.pdf)
 
 
 # 8. Phase 6: Conclusion (Act)
