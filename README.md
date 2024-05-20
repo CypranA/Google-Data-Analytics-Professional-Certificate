@@ -2300,6 +2300,7 @@ pd.read_csv('trip_data.csv')
 <p align="center">
   <img src="https://github.com/CypranA/Google-Data-Analytics-Professional-Certificate/blob/main/Cyclistic%20Dashboard.png" />
 </p>
+
 [Download Cyclistic Dashboard PDF](https://github.com/CypranA/Google-Data-Analytics-Professional-Certificate/raw/main/Cyclistic%20Dashboard.pdf)
 
 
